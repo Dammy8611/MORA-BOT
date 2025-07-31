@@ -1,7 +1,5 @@
-Version: 1.1.0
+Version: 1.1.1
 Content:
-- Fixed some bugs
-- New commands added
-- Fixed command categories
-- Fixed scripts issues
-- More optimizations will be available (Hopefully)
+- Improved folder structuring
+- Fixed update command
+- Note if update fails them download the zip from the repo. Use the script command
