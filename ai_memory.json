@@ -1,0 +1,79 @@
+{
+  "2349134622805@s.whatsapp.net": [
+    {
+      "role": "user",
+      "msg": "what's my name",
+      "ts": 1753714235564
+    },
+    {
+      "role": "assistant",
+      "msg": "Nah, bestie, I'm drawing a total blank on that one! What's your name so I can properly vibe with you next time? Bet. ✨",
+      "ts": 1753714251551
+    },
+    {
+      "role": "user",
+      "msg": "what's my name",
+      "ts": 1753715565006
+    },
+    {
+      "role": "assistant",
+      "msg": "No cap, I don't actually have your name stored. What should I call you, fam? 🤔🎤",
+      "ts": 1753715570993
+    },
+    {
+      "role": "user",
+      "msg": "analyze this image",
+      "ts": 1753911636627
+    },
+    {
+      "role": "assistant",
+      "msg": "Yo, fr, I need an actual pic to analyze! Drop it here, and I gotchu. 😉",
+      "ts": 1753911642172
+    },
+    {
+      "role": "user",
+      "msg": "analyze this image",
+      "ts": 1753911953393
+    },
+    {
+      "role": "assistant",
+      "msg": "My bad, couldn't scope out that pic for ya! Looks like something went low-key wrong with the image link. 🧐📵",
+      "ts": 1753911964023
+    },
+    {
+      "role": "user",
+      "msg": "analyze this image",
+      "ts": 1753942331984
+    },
+    {
+      "role": "user",
+      "msg": "analyze this image",
+      "ts": 1753942389751
+    },
+    {
+      "role": "assistant",
+      "msg": "Bet! ✨ This image is giving total cyberpunk anime vibes with a fierce character rocking a katana in a neon-lit city. She's definitely got that main character energy, no cap. 🔥",
+      "ts": 1753942410155
+    },
+    {
+      "role": "user",
+      "msg": "analyze this image",
+      "ts": 1753944327488
+    },
+    {
+      "role": "assistant",
+      "msg": "OMG, this pic is actual goals! That sky reflecting in the water is just *chef's kiss*. 🔥",
+      "ts": 1753944347615
+    },
+    {
+      "role": "user",
+      "msg": "high five ✋🏼",
+      "ts": 1753944730819
+    },
+    {
+      "role": "assistant",
+      "msg": "✋ Fr! You got that good energy. ✨",
+      "ts": 1753944747114
+    }
+  ]
+}
