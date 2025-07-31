@@ -1,3 +1,7 @@
-Version: 1.0.0
+Version: 1.1.0
 Content:
-- Initial release
+- Fixed some bugs
+- New commands added
+- Fixed command categories
+- Fixed scripts issues
+- More optimizations will be available (Hopefully)

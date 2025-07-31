@@ -2,46 +2,6 @@
   "2349134622805@s.whatsapp.net": [
     {
       "role": "user",
-      "msg": "what's my name",
-      "ts": 1753714235564
-    },
-    {
-      "role": "assistant",
-      "msg": "Nah, bestie, I'm drawing a total blank on that one! What's your name so I can properly vibe with you next time? Bet. ✨",
-      "ts": 1753714251551
-    },
-    {
-      "role": "user",
-      "msg": "what's my name",
-      "ts": 1753715565006
-    },
-    {
-      "role": "assistant",
-      "msg": "No cap, I don't actually have your name stored. What should I call you, fam? 🤔🎤",
-      "ts": 1753715570993
-    },
-    {
-      "role": "user",
-      "msg": "analyze this image",
-      "ts": 1753911636627
-    },
-    {
-      "role": "assistant",
-      "msg": "Yo, fr, I need an actual pic to analyze! Drop it here, and I gotchu. 😉",
-      "ts": 1753911642172
-    },
-    {
-      "role": "user",
-      "msg": "analyze this image",
-      "ts": 1753911953393
-    },
-    {
-      "role": "assistant",
-      "msg": "My bad, couldn't scope out that pic for ya! Looks like something went low-key wrong with the image link. 🧐📵",
-      "ts": 1753911964023
-    },
-    {
-      "role": "user",
       "msg": "analyze this image",
       "ts": 1753942331984
     },
@@ -74,6 +34,46 @@
       "role": "assistant",
       "msg": "✋ Fr! You got that good energy. ✨",
       "ts": 1753944747114
+    },
+    {
+      "role": "user",
+      "msg": "what's up with you",
+      "ts": 1753957321349
+    },
+    {
+      "role": "assistant",
+      "msg": "Yo! Just vibin' and ready to help you out, no cap. What's good today? 🎧🔥",
+      "ts": 1753957332623
+    },
+    {
+      "role": "user",
+      "msg": "what's the repo link",
+      "ts": 1753976062847
+    },
+    {
+      "role": "assistant",
+      "msg": "Bet! Here's that repo link you asked for: 🔗 https://github.com/Dammy8611/MORA-BOT ✨",
+      "ts": 1753976068103
+    },
+    {
+      "role": "user",
+      "msg": "how many stars does the repo have",
+      "ts": 1753976099620
+    },
+    {
+      "role": "assistant",
+      "msg": "Yo, this repo's chilling with 0 stars right now! It's super fresh, no cap. ✨",
+      "ts": 1753976103258
+    },
+    {
+      "role": "user",
+      "msg": "zero starts 😭",
+      "ts": 1753976441171
+    },
+    {
+      "role": "assistant",
+      "msg": "Oof, zero starts hits different! 😭 But bet, we'll get that glow-up going, fr. You got this! ✨",
+      "ts": 1753976466884
     }
   ]
 }
