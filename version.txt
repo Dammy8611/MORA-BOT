@@ -1,3 +1,3 @@
-Version: 1.1.2
+Version: 1.1.3
 Content:
 - Fixed the update command. Please run `.script` To get the latest file
