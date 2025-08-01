@@ -1,3 +1,3 @@
-Version: 1.1.4
+Version: 1.1.5
 Content:
-- Fixed some bugs. Please run `.script` To get the latest file
+- Added TTS
