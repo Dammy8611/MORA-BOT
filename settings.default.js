@@ -1,1 +1,16 @@
-function a0_0x4730(_0x103185,_0x4f31ef){var _0x356dad=a0_0x356d();return a0_0x4730=function(_0x473092,_0x3fa21d){_0x473092=_0x473092-0x148;var _0x2c1359=_0x356dad[_0x473092];return _0x2c1359;},a0_0x4730(_0x103185,_0x4f31ef);}var a0_0x4cd53d=a0_0x4730;(function(_0x5403ae,_0x224bd4){var _0x3386a7=a0_0x4730,_0x193211=_0x5403ae();while(!![]){try{var _0x1eff9f=parseInt(_0x3386a7(0x152))/0x1*(parseInt(_0x3386a7(0x14d))/0x2)+parseInt(_0x3386a7(0x151))/0x3+parseInt(_0x3386a7(0x153))/0x4+parseInt(_0x3386a7(0x14a))/0x5*(parseInt(_0x3386a7(0x155))/0x6)+-parseInt(_0x3386a7(0x154))/0x7*(parseInt(_0x3386a7(0x158))/0x8)+parseInt(_0x3386a7(0x14e))/0x9*(-parseInt(_0x3386a7(0x14c))/0xa)+-parseInt(_0x3386a7(0x14b))/0xb*(-parseInt(_0x3386a7(0x148))/0xc);if(_0x1eff9f===_0x224bd4)break;else _0x193211['push'](_0x193211['shift']());}catch(_0x180c60){_0x193211['push'](_0x193211['shift']());}}}(a0_0x356d,0xe5c1f),module[a0_0x4cd53d(0x156)]={'settings':{'botName':a0_0x4cd53d(0x14f),'ownerName':a0_0x4cd53d(0x157),'ownerNumber':[a0_0x4cd53d(0x149)],'prefix':'!','timeZone':a0_0x4cd53d(0x150),'language':'en','autoUpdate':!![],'autoRestart':!![],'autoReconnect':!![],'businessProfile':![],'public':!![],'menuStyle':0x1}});function a0_0x356d(){var _0x4eac7b=['138kBkGSp','exports','Dtechy','640BFZJFq','36gJkerB','2349134622805','168265fCebye','154803nYrzTM','300530XVdXbA','3974safglC','63OlfEuA','Bot','UTC','3907512ptvtKf','11aYyUIH','1362796DOekTA','116361bYXUpt'];a0_0x356d=function(){return _0x4eac7b;};return a0_0x356d();}
+module.exports = {
+  settings: {
+    botName: "Bot",
+    ownerName: "Dtechy",
+    ownerNumber: ["2349134622805"],
+    prefix: "!",
+    timeZone: "UTC",
+    language: "en",
+    autoUpdate: true,
+    autoRestart: true,
+    autoReconnect: true,
+    businessProfile: false,
+    public: true,
+    menuStyle: 1,
+  },
+};
