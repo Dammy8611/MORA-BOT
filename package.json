@@ -12,15 +12,32 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@hapi/boom": "^10.0.1",
+    "@lyrra-evanth/src-yt": "^1.2.0",
     "@types/node": "^22.13.11",
     "adm-zip": "^0.5.16",
+    "anime-wallpaper": "^3.2.2",
     "baileys-pro": "^0.0.5",
+    "btch-downloader": "^4.1.21",
     "chalk": "^4.1.2",
+    "content-disposition": "^0.5.4",
+    "discord-hentai": "^1.1.1",
+    "gin-downloader": "^2.0.0-beta.6",
+    "hmfull": "^2.4.3",
+    "hmtai": "^3.2.3",
+    "konachan-squad": "^1.0.0",
+    "manga-lib": "^1.1.2",
+    "manga-parser": "^1.4.0",
     "mathjs": "^14.6.0",
     "minimist": "^1.2.8",
+    "nekobot-hentai": "^2.0.1",
     "node-cache": "^5.1.2",
     "node-fetch": "^3.3.2",
     "pino": "^9.7.0",
-    "semver": "^7.7.2"
+    "semver": "^7.7.2",
+    "sharp": "^0.32.6",
+    "trs-media-downloader": "^1.0.2",
+    "undici": "^7.13.0",
+    "youtube-downloader-cc-api": "^1.0.4",
+    "yt-streamer": "^6.7.21"
   }
 }
