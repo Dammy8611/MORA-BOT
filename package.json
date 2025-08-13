@@ -36,6 +36,7 @@
     "nekobot-hentai": "^2.0.1",
     "node-cache": "^5.1.2",
     "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.2.1",
     "pino": "^9.7.0",
     "semver": "^7.7.2",
     "sharp": "^0.32.6",
