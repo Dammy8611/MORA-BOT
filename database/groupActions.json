@@ -1,7 +1,7 @@
 [
   {
     "groupID": "120363401544600478@g.us",
-    "welcomeMessage": "Welcome {{user}} to {{groupName}}, You are member number {{memberNumber}}.",
+    "welcomeMessage": "Welcome {{user}} to {{groupName}}, You are member number {{memberNumber}}. Read the description: {{desc}}",
     "leaveMessage": "Goodbye! {{user}} has left the group.",
     "welcomeBanner": true
   }

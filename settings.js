@@ -14,5 +14,9 @@ module.exports = {
     public: true,
     autoWelcome: true,
     autoLeave: true,
+    autoPromote: true,
+    autoDemote: true,
+    autoReply: true,
+    autoRead: true,
   },
 };
