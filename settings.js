@@ -12,5 +12,7 @@ module.exports = {
     businessProfile: false,
     menuStyle: "jolly",
     public: true,
+    autoWelcome: true,
+    autoLeave: true,
   },
 };
