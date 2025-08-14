@@ -18,5 +18,9 @@ module.exports = {
     autoDemote: true,
     autoReply: true,
     autoRead: true,
+
+    // Sticker settings
+    packName: "𝓜𝓞𝓡𝓐 𝓑𝓞𝓣",
+    authorName: "𐌃𐌕𐌄𐌂𐋅𐌙",
   },
 };
