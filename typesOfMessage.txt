@@ -533,3 +533,12 @@ image with caption:
     }
   }
 }
+
+ContextInfo {
+  mentionedJid: [],
+  groupMentions: [],
+  statusAttributions: [],
+  stanzaId: 'E58870ED03EB7B8D7370BD23213DE445',
+  participant: '992927997741@s.whatsapp.net',
+  quotedMessage: Message { conversation: 'https://vt.tiktok.com/ZSSoF8CoB/' }
+}
