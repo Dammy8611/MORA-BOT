@@ -11,7 +11,7 @@ module.exports = {
     autoReconnect: true,
     businessProfile: false,
     menuStyle: "default",
-    public: true,
+    public: false,
     autoWelcome: true,
     autoLeave: true,
     autoPromote: true,
