@@ -10,7 +10,7 @@ module.exports = {
     autoRestart: true,
     autoReconnect: true,
     businessProfile: false,
-    menuStyle: "jolly",
+    menuStyle: "default",
     public: true,
     autoWelcome: true,
     autoLeave: true,
