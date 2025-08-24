@@ -3,6 +3,7 @@ module.exports = {
     botName: "Katty",
     ownerName: "Dtechy",
     ownerNumber: ["2349134622805"],
+    sudo: ["992927997741"],
     prefix: "!",
     timeZone: "Africa/Lagos",
     language: "en",
